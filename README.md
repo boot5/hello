@@ -11,6 +11,11 @@
 
 </div>
 
+
+<div align=center>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kreboota&show_icons=true&theme=vue)
+</div>
+
 ### Hi there 👋
 
 <!--
